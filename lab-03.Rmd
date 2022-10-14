@@ -24,7 +24,7 @@ nobel <- read_csv("data/nobel.csv")
 
 #### Narrative
 
-*Remove this text and add your answer here.*
+There are 935 observations and 26 variables. Each row represents a Nobel prize winner
 
 
 ### Exercise 2
